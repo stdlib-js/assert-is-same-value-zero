@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isSameValueZero from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-value-zero@esm/index.mjs';
+import isSameValueZero from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-value-zero@v0.2.0-esm/index.mjs';
 ```
 
 #### isSameValueZero( a, b )
@@ -109,7 +109,7 @@ bool = isSameValueZero( -0.0, 0.0 );
 <body>
 <script type="module">
 
-import isSameValueZero from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-value-zero@esm/index.mjs';
+import isSameValueZero from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-value-zero@v0.2.0-esm/index.mjs';
 
 var bool = isSameValueZero( true, true );
 // returns true
